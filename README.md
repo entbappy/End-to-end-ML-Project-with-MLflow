@@ -1,4 +1,4 @@
-# End-to-end-ML-Project-with-DVC-MLflow
+# End-to-end-ML-Project-with-MLflow
 
 
 ## Workflows
@@ -77,7 +77,7 @@ Run this to export as env variables:
 
 ```bash
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/End-to-end-ML-Project-with-DVC-MLflow.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/End-to-end-ML-Project-with-MLflow.mlflow
 
 export MLFLOW_TRACKING_USERNAME=entbappy 
 
