@@ -1,3 +1,11 @@
 ElasticNet:
   alpha: 0.5
   l1_ratio: 0.7
+
+
+RandomForest:
+  max_depth: 2
+  random_state: 0
+  n_estimators: 100
+  min_samples_split: 2
+
